@@ -16,7 +16,7 @@ The csv data file contains the following columns with their respective datatypes
 
 To use this codebase, follow these steps:
 
-- Create new conda environment `- conda create -n [name] python=3.9`
+- Create new conda environment `conda create -n [name] python=3.9`
 - `conda activate [name]`
 - `git clone` the repository to your local machine.
 - Install the required packages using the following command: `pip install -r requirements.txt`
